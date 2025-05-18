@@ -1,5 +1,3 @@
-LICENSE
-
 ENG
 
 Copyright (c) 2025 DozerStudios
